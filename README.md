@@ -63,17 +63,7 @@ python sniffer.py 192.168.1.0/24
 
 ---
 
-## Repository Structure
 
-```
-cybersecurity-tools/
-├── notebooks/
-│   ├── SQL-Injection_Scanner.ipynb              # SQLi scanner
-│   └── Scapy_IP_and_MAC_address_Sniffer.ipynb  # ARP sniffer
-└── README.md
-```
-
----
 
 ## Tech Stack
 
